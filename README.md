@@ -5,7 +5,7 @@ Generate tagclouds from pdf documents to get a quick gist of their content.
 
 Usage: 
 
-python makeCloudFromPdf -f filename.pdf
+python makeCloudFromPdf.py -f filename.pdf
 
 
 
